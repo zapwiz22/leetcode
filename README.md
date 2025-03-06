@@ -52,7 +52,3 @@ The solutions are organized by problem number and name, following this structure
 
 ## ⭐ Contributions
 This repository is primarily for personal learning, but feel free to open an issue if you have suggestions or improvements!
-
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
